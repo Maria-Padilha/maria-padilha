@@ -21,7 +21,7 @@
 
 
 <ul align="start">
-  <li>💻 Evolução constante</li>
+  <li>👩‍💻 Evolução constante</li>
   <li>📚 Aprendizado Ativo</li>
   <li>☕ Muito café</li>
 </ul>
