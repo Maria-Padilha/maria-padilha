@@ -12,12 +12,11 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql)](https://skillicons.dev)
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <h1 align="center">Estudando</h1>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react)](https://skillicons.dev)
-   
-</div>
 
 
 
