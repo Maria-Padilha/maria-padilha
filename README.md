@@ -1,5 +1,5 @@
 <h1 align="center">Fala galera, eu sou a Padilha!</h1>
-<p align="center">Estou começando minha jornada como dev front-end, veja minhas novas habilidades :) </p>
+<p align="center">Estou começando minha jornada como dev fullstack, veja minhas novas habilidades :) </p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-padilha&show_icons=true&theme=algolia&include_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-padilha&layout=compact&langs_count=16&theme=algolia"/>
