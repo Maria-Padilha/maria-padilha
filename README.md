@@ -24,6 +24,4 @@
   <li>👩‍💻 Evolução constante</li>
   <li>📚 Aprendizado Ativo</li>
   <li>☕ Muito café</li>
-  <br>
-  <li><a href="https://github.com/Maria-Padilha/maria-padilha/blob/main/curriculo%20padilha%20off.pdf" dowlond="curriculo padilha off" target="_blank" color="white">Veja o meu currículo :)</a></li>
 </ul>
