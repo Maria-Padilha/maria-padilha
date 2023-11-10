@@ -1,7 +1,7 @@
 <h1 align="center">Fala galera, eu sou a Padilha!</h1>
 <p align="center">Estou começando minha jornada como dev front-end, veja minhas novas habilidades :) </p>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-padilha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-padilha&show_icons=true&theme=omni&include_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-padilha&layout=compact&langs_count=16&theme=omni"/>
 </div>
 <div  align="center"> 
