@@ -16,7 +16,7 @@
     <h1 align="center">Estudando</h1>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,laravel)](https://skillicons.dev)
 
 
 
