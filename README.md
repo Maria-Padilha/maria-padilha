@@ -67,10 +67,9 @@
 
 <br/>
 
-<!--
 ## Principais Projetos -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maria-padilha&repo=Maralua-Fotocabine_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Maria-Padilha/Maralua-Fotocabine)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=maria-padilha&repo=dashboard_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Maria-Padilha/dashboard)
+[![Maralua](https://github-readme-stats.vercel.app/api/pin/?username=maria-padilha&repo=Maralua-Fotocabine&color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maria-padilha/Maralua-Fotocabine)
+[![Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=maria-padilha&repo=dashboard&color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Maria-Padilha/dashboard)
 
 <p align="left">
   <a href="https://github.com/Maria-Padilha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -81,14 +80,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/maria-padilha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-padilha&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/maria-padilha"><img alt="Al Maria's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maria-padilha&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/maria-padilha"><img alt="Al Maria's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maria-padilha&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
---> 
