@@ -57,15 +57,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-<br> 
-
-<h2>Estudando no momento</h2>
-
 ![Vue](https://img.shields.io/badge/Vue-43bb83?style=for-the-badge&logo=vue.js&logoColor=fff)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=fff)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-<br/>
+<br> 
 
 ## Principais Projetos -
 [![Maralua](https://github-readme-stats.vercel.app/api/pin/?username=maria-padilha&repo=Maralua-Fotocabine&color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maria-padilha/Maralua-Fotocabine)
